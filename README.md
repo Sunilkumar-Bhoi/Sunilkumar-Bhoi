@@ -4,11 +4,9 @@ Welcome to my GitHub profile! I'm passionate about learning and building impactf
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **Web Development Projects & AI-based Capstone**
-- 🌱 I’m currently learning: **Frontend technology ( HTML, CSS, JavaScript, Tailwind CSS ), UI/UX and AI Tools**
-- 👯 I’m looking to collaborate on: **Open Source Web and AI Projects**
-- 🤔 I’m looking for help with: **Optimizing front-end performance and AI model integration**
-- 💬 Ask me about: **Frontend Development, AngularJS, Git, and ML Projects**
+- 🔭 I’m currently working on: **DSA**
+- 🌱 I’m currently learning: **C language, Data Structure and Algorithm, Linux, Operating System**
+
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sunilbhoi)** | **sunilbhoi.dev@gmail.com**
 - 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sunilkumar-Bhoi&theme=tokyonight&hide_border=true)
