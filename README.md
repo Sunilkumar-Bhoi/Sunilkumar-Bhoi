@@ -9,7 +9,4 @@ Welcome to my GitHub profile! I'm passionate about learning and building impactf
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sunilbhoi)** | **sunilbhoi.dev@gmail.com**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sunilkumar-Bhoi&theme=tokyonight&hide_border=true)
----
-
 Thanks for visiting! Let’s connect and build something great together.
