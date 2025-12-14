@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building impactf
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: **DSA**
+- 🔭 I’m currently working on: **C,Linux,Shell Scripting**
 - 🌱 I’m currently learning: **C language, Data Structure and Algorithm, Linux, Operating System**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sunilbhoi)** | **sunilbhoi.dev@gmail.com**
